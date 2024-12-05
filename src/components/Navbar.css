@@ -1,0 +1,27 @@
+.navbar {
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #282828;
+}
+
+.search-bar {
+  width: 60%;
+  padding: 8px;
+  background-color: #404040;
+  border: none;
+  color: white;
+  border-radius: 4px;
+}
+
+.icons {
+  display: flex;
+  align-items: center;
+}
+
+.profile-icon {
+  font-size: 20px;
+  margin-left: 15px;
+  cursor: pointer;
+}
