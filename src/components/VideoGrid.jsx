@@ -7,7 +7,7 @@ const videos = [
     channel: "MPL Indonesia",
     views: "689K views",
     time: "12 minutes ago",
-    thumbnail: "/public/mpl.jpg", // Ganti sesuai nama file Anda
+    thumbnail: "/mpl.jpg", // Ganti sesuai nama file Anda
   },
   {
     title: "Ketika Si Kuda Disekolahin Sang Raja!!",
