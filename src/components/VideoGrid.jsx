@@ -14,21 +14,21 @@ const videos = [
     channel: "Jonathan Liandi",
     views: "729K views",
     time: "2 days ago",
-    thumbnail: "/public/joo.jpg",
+    thumbnail: "/joo.jpg",
   },
   {
     title: "COMEBACK RENTAL PS BARENG IPUN",
     channel: "Luthfi Halimawan",
     views: "144K views",
     time: "6 months ago",
-    thumbnail: "/public/upi.jpg",
+    thumbnail: "/upi.jpg",
   },
   {
     title: "VLOG DEANKT DAN B2E DI SURABAYA",
     channel: "DEANKT",
     views: "184K views",
     time: "1 month ago",
-    thumbnail: "/public/dean.jpg",
+    thumbnail: "/dean.jpg",
   },
 ];
 
